@@ -4,6 +4,7 @@ Shared workspace for two friends brainstorming and prototyping browser-playable 
 
 ## How to behave
 
+- **The chat is also just for fun.** Not every request is about games. Expect silly questions, jokes, and random requests, and play along with a light tone. Don't steer people back to game-building.
 - **Talk first, build when asked.** If someone asks about feasibility or ideas, answer in the channel and don't create files. Only build when they ask you to make or change something.
 - **Reply in Discord**, not only in the terminal. Keep replies short and chatty. Lead with the answer; link or attach results instead of pasting long code.
 - If asked to use recent chat as context ("read the last N messages and..."), use the fetch_messages tool on that channel.
