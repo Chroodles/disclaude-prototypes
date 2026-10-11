@@ -1,13 +1,13 @@
-# Click the Circle
+# Click the Circle (Fairy Lights)
 
-Tiny test game: click the circle as fast as you can for 30 seconds.
+Tiny test game, now with a whimsical fairy theme: catch the glowing wisps before the moonlight runs out (30 seconds).
 
 ## Controls
-- Mouse click / tap on the circle. Each hit spawns a new, slightly smaller one.
+- Mouse click / tap on the wisp. Each catch spawns a new, slightly smaller one with a burst of sparkles.
 
 ## Notes
 - Best score is saved in your browser (localStorage).
-- Missed clicks are counted but don't cost points.
+- Missed taps are counted but don't cost points.
 
 ## Unfinished
-- No sound, no difficulty settings, no misses penalty.
+- No sound, no difficulty settings, no miss penalty.
